@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)](https://www.tensorflow.org/)  [![OpenCV](https://img.shields.io/badge/OpenCV-VisãoVerde-green?logo=opencv)](https://opencv.org/)  [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modelagem-lightgrey?logo=python)](https://scikit-learn.org/stable/)  
 
 > Quinto projeto do **Bootcamp Machine Learning** da [DIO](https://www.dio.me/) em parceria com a **BairesDev**.  
-> Aplicação prática de **detecção e reconhecimento facial** utilizando um dataset de rostos organizados por classes (Lula, Bolsonaro e Outros).  
+> Aplicação prática de **detecção e reconhecimento facial** utilizando um dataset de rostos organizados por classes.  
 
 ---
 
